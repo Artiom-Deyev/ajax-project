@@ -1,0 +1,23 @@
+.card {
+  border: 1px black solid;
+  display: flex;
+  width: fit-content;
+  padding: 10px;
+  margin: 10px;
+  background-color: Aqua;
+  color: DimGrey;
+}
+
+.card ul {
+  list-style: none;
+}
+
+.main-list {
+  padding: 10px;
+  border: 1px black solid;
+  width: fit-content;
+  list-style: none;
+  margin: 10px;
+  background-color: Aqua;
+  color: DimGrey;
+}
